@@ -2,5 +2,5 @@ package gitPGO;
 
 public class GitPGO3 {
 
-	int i = 0;
+	int i = 2;
 }
